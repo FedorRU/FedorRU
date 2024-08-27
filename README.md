@@ -1,5 +1,8 @@
 ## Hi there 👋
+Начинающий специалист в области Data Science с хорошими знаниями мат. статистики. Интересуюсь классическими моделями машииного обучения.
 
+__Стэк__
+Python: Pandas, Numpy, SciPy, Math, tqdm, ML: Scikit-Learn, LightGBM, XGBoost, Catboost, SHAP, DL: TensorFlow, Keras, NLP: pymorphy2, NLTK, Visualization: Matplotlib, Seaborn, Plotly, SQL
 <!--
 **FedorRU/FedorRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
