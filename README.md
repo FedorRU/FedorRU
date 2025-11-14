@@ -1,8 +1,10 @@
 ## Hi there 👋
-Начинающий специалист в области Data Science с хорошими знаниями мат. статистики. Интересуюсь классическими моделями машииного обучения.
+Финансовый аналитик с опытом в data-driven аналитике. Специализируюсь на анализе финансовой
+отчетности, построении прогнозных моделей. Параллельно развиваюсь в Data Science, интересуюсь
+классичечскими моделями машинного обучения и дизайном A/B-тестирования.
 
 __Стэк__
-Python: Pandas, Numpy, SciPy, Math, tqdm, ML: Scikit-Learn, LightGBM, XGBoost, Catboost, SHAP, DL: TensorFlow, Keras, NLP: pymorphy2, NLTK, Visualization: Matplotlib, Seaborn, Plotly, SQL
+Python: Pandas, Numpy, SciPy, Math, tqdm, ML: Scikit-Learn, LightGBM, XGBoost, Catboost, SHAP, DL: TensorFlow, Keras, NLP: pymorphy2, NLTK, Visualization: Matplotlib, Seaborn, Plotly, Superset SQL, GIT, Airflow, A/B тесты, Финансовое моделирование, 1C
 <!--
 **FedorRU/FedorRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
